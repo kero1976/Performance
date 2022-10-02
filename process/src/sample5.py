@@ -6,7 +6,7 @@ import queue
 """
 サンプル5
 ・プロセス間通信2
-  キューを使用する
+  キューを使用する(まだ動かない)
 """
 
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s %(processName)-20s: %(message)s')
